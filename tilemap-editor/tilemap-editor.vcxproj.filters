@@ -23,5 +23,8 @@
     <ClInclude Include="tilemap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
